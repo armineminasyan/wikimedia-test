@@ -1,5 +1,8 @@
 > :warning: **This code is from 2018**: it might use deprecated APIs!
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wikimedia_Foundation_logo_-_vertical.svg/320px-Wikimedia_Foundation_logo_-_vertical.svg.png)
+<sub><sub>Wikimedia Foundation Logo: Public Domain.</sub></sub>
+
 ## Answers to a Data Analyst interview test
 
 The original test was devised by the "Wikimedia Foundation Research and Data Analysis" and is available [here](https://github.com/wikimedia-research/Discovery-Hiring-Analyst-2016).
